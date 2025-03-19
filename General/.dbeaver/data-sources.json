@@ -1,7 +1,7 @@
 {
 	"folders": {},
 	"connections": {
-		"mariaDB-195a77225fa-6c174d69ad159ce2": {
+		"mariaDB-195ac6115da-506091b4cc311775": {
 			"provider": "mysql",
 			"driver": "mariaDB",
 			"name": "mydatabase",
@@ -14,7 +14,8 @@
 				"configurationType": "MANUAL",
 				"type": "dev",
 				"closeIdleConnection": true,
-				"auth-model": "native"
+				"auth-model": "native",
+				"handlers": {}
 			}
 		}
 	},
